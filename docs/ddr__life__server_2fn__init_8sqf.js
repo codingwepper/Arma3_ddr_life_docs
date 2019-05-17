@@ -4,6 +4,7 @@ var ddr__life__server_2fn__init_8sqf =
     [ "if", "ddr__life__server_2fn__init_8sqf_a4284e6215f3eb2b23c54490558f73b2f.html#a4284e6215f3eb2b23c54490558f73b2f", null ],
     [ "if", "ddr__life__server_2fn__init_8sqf_a9dd92240d0a0e187c3be1f081ba6a18a.html#a9dd92240d0a0e187c3be1f081ba6a18a", null ],
     [ "_extDBNotLoaded", "ddr__life__server_2fn__init_8sqf_a486af1d0456387fafbdd264ad8ba838e.html#a486af1d0456387fafbdd264ad8ba838e", null ],
+    [ "_scriptHandler", "ddr__life__server_2fn__init_8sqf_a5594f65dbef89f6592ae7b9b598fee42.html#a5594f65dbef89f6592ae7b9b598fee42", null ],
     [ "addMissionEventHandler", "ddr__life__server_2fn__init_8sqf_a79d03cd66da049772373f5e546f8a5ba.html#a79d03cd66da049772373f5e546f8a5ba", null ],
     [ "allUnits", "ddr__life__server_2fn__init_8sqf_a0b132b75cf65d9eb6bbd2c5688dd574a.html#a0b132b75cf65d9eb6bbd2c5688dd574a", null ],
     [ "ddr_life_DatabaseName", "ddr__life__server_2fn__init_8sqf_a4bf7a71e60ab9d54ee6e57017d096a1c.html#a4bf7a71e60ab9d54ee6e57017d096a1c", null ],
@@ -17,6 +18,9 @@ var ddr__life__server_2fn__init_8sqf =
     [ "NPC", "ddr__life__server_2fn__init_8sqf_a86ce4243d4818e13e73d36a5b048a2df.html#a86ce4243d4818e13e73d36a5b048a2df", null ],
     [ "server_extDB_Loaded", "ddr__life__server_2fn__init_8sqf_a577f44f4bb7d41e8ba6d2092a76ce98a.html#a577f44f4bb7d41e8ba6d2092a76ce98a", null ],
     [ "server_started", "ddr__life__server_2fn__init_8sqf_a45252b236281dd4bc4499359d3630f8d.html#a45252b236281dd4bc4499359d3630f8d", null ],
+    [ "server_version", "ddr__life__server_2fn__init_8sqf_a109fd9bb12b9ff577b62879e52dd45de.html#a109fd9bb12b9ff577b62879e52dd45de", null ],
     [ "SYSTEM_DEBUG", "ddr__life__server_2fn__init_8sqf_afddfe11967f2d2af2e11592d99ebca15.html#afddfe11967f2d2af2e11592d99ebca15", null ],
-    [ "Version", "ddr__life__server_2fn__init_8sqf_a4ddd4b22966aeaf620111134c4831d87.html#a4ddd4b22966aeaf620111134c4831d87", null ]
+    [ "Version", "ddr__life__server_2fn__init_8sqf_a4ddd4b22966aeaf620111134c4831d87.html#a4ddd4b22966aeaf620111134c4831d87", null ],
+    [ "waitUntil", "ddr__life__server_2fn__init_8sqf_a03e4a719bfd9fa2d18983e9c256f1a58.html#a03e4a719bfd9fa2d18983e9c256f1a58", null ],
+    [ "wepc_core_fnc_findSide", "ddr__life__server_2fn__init_8sqf_a71999b110d97d2984e2b360dc22b05d0.html#a71999b110d97d2984e2b360dc22b05d0", null ]
 ];

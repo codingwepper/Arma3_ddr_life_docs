@@ -31,6 +31,8 @@ var NAVTREE =
     [ "init.sqf", "_m_i_s_s_i_o_n_init_8sqf.html", null ],
     [ "initPlayerLocal.sqf", "_m_i_s_s_i_o_n_init_player_local_8sqf.html", null ],
     [ "initServer.sqf", "_m_i_s_s_i_o_n_init_server_8sqf.html", null ],
+    [ "wepc_player_fnc_evhKilled", "wepc_player_fnc_evh_killed.html", null ],
+    [ "wepc_player_fnc_evhRespawn", "wepc_player_fnc_evh_respawn.html", null ],
     [ "wepc_player_fnc_checkBorder", "wepc_player_fnc_check_border.html", null ],
     [ "wepc_player_fnc_Init", "wepc_player_fnc__init.html", null ],
     [ "wepc_player_fnc_loadData", "wepc_player_fnc_load_data.html", null ],
@@ -39,6 +41,8 @@ var NAVTREE =
     [ "wepc_player_fnc_saveData", "wepc_player_fnc_save_data.html", null ],
     [ "wepc_player_fnc_saveGear", "wepc_player_fnc_save_gear.html", null ],
     [ "wepc_player_fnc_stripDownPlayer", "wepc_player_fnc_strip_down_player.html", null ],
+    [ "wepc_vehicles_fnc_loadVehicles", "wepc_vehicles_fnc_load_vehicles.html", null ],
+    [ "wepc_core_fnc_findSide", "wepc_core_fnc_find_side.html", null ],
     [ "db_fnc_asyncCall", "db_fnc_async_call.html", null ],
     [ "db_fnc_bool", "db_fnc_bool.html", null ],
     [ "db_fnc_mresArray", "db_fnc_mres_array.html", null ],
@@ -47,10 +51,13 @@ var NAVTREE =
     [ "db_fnc_numberSafe", "db_fnc_number_safe.html", null ],
     [ "db_fnc_insertPlayer", "db_fnc_insert_player.html", null ],
     [ "db_fnc_selectPlayerData", "db_fnc_select_player_data.html", null ],
+    [ "db_fnc_selectPlayerVehicles", "db_fnc_select_player_vehicles.html", null ],
     [ "db_fnc_savePlayer", "db_fnc_save_player.html", null ],
     [ "weps_player_fnc_handleDisconnect", "weps_player_fnc_handle_disconnect.html", null ],
     [ "weps_player_fnc_loadData", "weps_player_fnc_load_data.html", null ],
     [ "weps_player_fnc_saveData", "weps_player_fnc_save_data.html", null ],
+    [ "weps_scripts_fnc_initBorder", "weps_scripts_fnc_init_border.html", null ],
+    [ "weps_vehicles_fnc_loadPlayerVehicles", "weps_vehicles_fnc_load_player_vehicles.html", null ],
     [ "Data Structures", "annotated.html", [
       [ "Data Structures", "annotated.html", "annotated_dup" ],
       [ "Data Structure Index", "classes.html", null ]
@@ -60,7 +67,7 @@ var NAVTREE =
       [ "Globals", "globals.html", [
         [ "All", "globals.html", "globals_dup" ],
         [ "Functions", "globals_func.html", null ],
-        [ "Variables", "globals_vars.html", null ]
+        [ "Variables", "globals_vars.html", "globals_vars" ]
       ] ]
     ] ]
   ] ]
@@ -69,7 +76,7 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "_m_i_s_s_i_o_n_init_8sqf.html",
-"fn__save_gear_8sqf_a09bfa5a5df52cfe92b82dc76bc8e4bb5.html#a09bfa5a5df52cfe92b82dc76bc8e4bb5"
+"fn__load_gear_8sqf_a1f8e422574bacb0b6293c57dd2971815.html#a1f8e422574bacb0b6293c57dd2971815"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

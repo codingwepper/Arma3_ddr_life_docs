@@ -10,5 +10,6 @@ var annotated_dup =
     [ "License_Standard", "class_license___standard.html", null ],
     [ "Player", "class_player.html", null ],
     [ "wepc_core", "classwepc__core.html", null ],
-    [ "weps_player", "classweps__player.html", null ]
+    [ "weps_player", "classweps__player.html", null ],
+    [ "weps_scripts", "classweps__scripts.html", null ]
 ];

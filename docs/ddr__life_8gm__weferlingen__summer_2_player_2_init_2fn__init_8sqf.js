@@ -7,12 +7,14 @@ var ddr__life_8gm__weferlingen__summer_2_player_2_init_2fn__init_8sqf =
     [ "_name", "ddr__life_8gm__weferlingen__summer_2_player_2_init_2fn__init_8sqf_a705391f3be33314bd5788a28f7538642.html#a705391f3be33314bd5788a28f7538642", null ],
     [ "_str", "ddr__life_8gm__weferlingen__summer_2_player_2_init_2fn__init_8sqf_a357736d31fc2db1abafd8504bd7d9ddb.html#a357736d31fc2db1abafd8504bd7d9ddb", null ],
     [ "_tagsize", "ddr__life_8gm__weferlingen__summer_2_player_2_init_2fn__init_8sqf_abb195782d3cbb9c19a0e09f9f2868442.html#abb195782d3cbb9c19a0e09f9f2868442", null ],
+    [ "addEventHandler", "ddr__life_8gm__weferlingen__summer_2_player_2_init_2fn__init_8sqf_aad08c93b2a059a3723156c5c32bc2b30.html#aad08c93b2a059a3723156c5c32bc2b30", null ],
     [ "adminLevel", "ddr__life_8gm__weferlingen__summer_2_player_2_init_2fn__init_8sqf_a76e01f512da002f6f71ce17ca4568802.html#a76e01f512da002f6f71ce17ca4568802", null ],
     [ "brd_bank", "ddr__life_8gm__weferlingen__summer_2_player_2_init_2fn__init_8sqf_a8f189e459b4f54c7b7569f9cb709d1f2.html#a8f189e459b4f54c7b7569f9cb709d1f2", null ],
     [ "brd_cash", "ddr__life_8gm__weferlingen__summer_2_player_2_init_2fn__init_8sqf_a8d5eac2659d26cdebee4b66df909b771.html#a8d5eac2659d26cdebee4b66df909b771", null ],
     [ "brd_copLevel", "ddr__life_8gm__weferlingen__summer_2_player_2_init_2fn__init_8sqf_a07c847af6a89be07d476da692322ccfe.html#a07c847af6a89be07d476da692322ccfe", null ],
     [ "brd_medicLevel", "ddr__life_8gm__weferlingen__summer_2_player_2_init_2fn__init_8sqf_ab0a43c4dab71be359f4ef9275f5e7146.html#ab0a43c4dab71be359f4ef9275f5e7146", null ],
     [ "brd_militaryLevel", "ddr__life_8gm__weferlingen__summer_2_player_2_init_2fn__init_8sqf_ab17c806fb30913a204a3912f7bd7c26e.html#ab17c806fb30913a204a3912f7bd7c26e", null ],
+    [ "client_alive", "ddr__life_8gm__weferlingen__summer_2_player_2_init_2fn__init_8sqf_a16bc37368fb6b149289fd7a75abe3754.html#a16bc37368fb6b149289fd7a75abe3754", null ],
     [ "client_data_recieved", "ddr__life_8gm__weferlingen__summer_2_player_2_init_2fn__init_8sqf_a0e251d6ca65c64105a97c383ee508423.html#a0e251d6ca65c64105a97c383ee508423", null ],
     [ "client_init_done", "ddr__life_8gm__weferlingen__summer_2_player_2_init_2fn__init_8sqf_a54ca10582459660c3cb71a561dcd7a57.html#a54ca10582459660c3cb71a561dcd7a57", null ],
     [ "ddr_bank", "ddr__life_8gm__weferlingen__summer_2_player_2_init_2fn__init_8sqf_a59680d448f6e22422d71a74db26f1a08.html#a59680d448f6e22422d71a74db26f1a08", null ],
@@ -20,7 +22,7 @@ var ddr__life_8gm__weferlingen__summer_2_player_2_init_2fn__init_8sqf =
     [ "ddr_copLevel", "ddr__life_8gm__weferlingen__summer_2_player_2_init_2fn__init_8sqf_afd2d85448dd38855a14439083818d4b9.html#afd2d85448dd38855a14439083818d4b9", null ],
     [ "ddr_medicLevel", "ddr__life_8gm__weferlingen__summer_2_player_2_init_2fn__init_8sqf_a9f897bdb2a7461de2d6e85fdeb761e3e.html#a9f897bdb2a7461de2d6e85fdeb761e3e", null ],
     [ "ddr_militaryLevel", "ddr__life_8gm__weferlingen__summer_2_player_2_init_2fn__init_8sqf_a6e147947c2c3568c35143cee61972fef.html#a6e147947c2c3568c35143cee61972fef", null ],
-    [ "displayAddEventHandler", "ddr__life_8gm__weferlingen__summer_2_player_2_init_2fn__init_8sqf_a4907789a20931e2675aef4a94698d39f.html#a4907789a20931e2675aef4a94698d39f", null ],
     [ "setVariable", "ddr__life_8gm__weferlingen__summer_2_player_2_init_2fn__init_8sqf_a9efe1c1159bbf9d85472b29dd61bfa1c.html#a9efe1c1159bbf9d85472b29dd61bfa1c", null ],
+    [ "waituntil", "ddr__life_8gm__weferlingen__summer_2_player_2_init_2fn__init_8sqf_a18b156b618d7cf4286db826760330393.html#a18b156b618d7cf4286db826760330393", null ],
     [ "wepc_player_fnc_checkBorder", "ddr__life_8gm__weferlingen__summer_2_player_2_init_2fn__init_8sqf_ac6d4bdbb92933baa271294bc97b43512.html#ac6d4bdbb92933baa271294bc97b43512", null ]
 ];

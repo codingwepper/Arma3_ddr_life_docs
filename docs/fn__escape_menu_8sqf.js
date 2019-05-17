@@ -10,7 +10,8 @@ var fn__escape_menu_8sqf =
     [ "do", "fn__escape_menu_8sqf_a8833852f21d7cd7fde53c8835a6b3760.html#a8833852f21d7cd7fde53c8835a6b3760", null ],
     [ "false", "fn__escape_menu_8sqf_a16cdbc8cbba0880b21c6cbdd691df4de.html#a16cdbc8cbba0880b21c6cbdd691df4de", null ],
     [ "format", "fn__escape_menu_8sqf_acfc769258311fe68e0b58c7ccb91b68e.html#acfc769258311fe68e0b58c7ccb91b68e", null ],
-    [ "server_version", "fn__escape_menu_8sqf_a18c8aa56e2fcdb60a7185c10646209d7.html#a18c8aa56e2fcdb60a7185c10646209d7", null ],
+    [ "server_version", "fn__escape_menu_8sqf_a109fd9bb12b9ff577b62879e52dd45de.html#a109fd9bb12b9ff577b62879e52dd45de", null ],
+    [ "true", "fn__escape_menu_8sqf_af1e2163af9b2c16de4191828bf73a199.html#af1e2163af9b2c16de4191828bf73a199", null ],
     [ "waitUntil", "fn__escape_menu_8sqf_a03e4a719bfd9fa2d18983e9c256f1a58.html#a03e4a719bfd9fa2d18983e9c256f1a58", null ],
     [ "wepc_player_fnc_saveData", "fn__escape_menu_8sqf_ab136a07440522db56eba1e79c8595738.html#ab136a07440522db56eba1e79c8595738", null ]
 ];

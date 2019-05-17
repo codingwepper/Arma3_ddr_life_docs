@@ -8,6 +8,7 @@ var fn__recieve_data_8sqf =
     [ "brd_coplevel", "fn__recieve_data_8sqf_a4c09af4e0d7a450263f1954fe70fb95d.html#a4c09af4e0d7a450263f1954fe70fb95d", null ],
     [ "brd_mediclevel", "fn__recieve_data_8sqf_a98b456c3ba8fea9ada8094fcc00a7229.html#a98b456c3ba8fea9ada8094fcc00a7229", null ],
     [ "brd_militaryLevel", "fn__recieve_data_8sqf_ab17c806fb30913a204a3912f7bd7c26e.html#ab17c806fb30913a204a3912f7bd7c26e", null ],
+    [ "client_alive", "fn__recieve_data_8sqf_a16bc37368fb6b149289fd7a75abe3754.html#a16bc37368fb6b149289fd7a75abe3754", null ],
     [ "client_data_recieved", "fn__recieve_data_8sqf_a0e251d6ca65c64105a97c383ee508423.html#a0e251d6ca65c64105a97c383ee508423", null ],
     [ "ddr_bank", "fn__recieve_data_8sqf_a59680d448f6e22422d71a74db26f1a08.html#a59680d448f6e22422d71a74db26f1a08", null ],
     [ "ddr_cash", "fn__recieve_data_8sqf_a6cb175e9cf18b75d026571b9757046ae.html#a6cb175e9cf18b75d026571b9757046ae", null ],
