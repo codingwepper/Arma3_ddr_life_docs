@@ -28,9 +28,9 @@ var NAVTREE =
     [ "wepc_core_fnc_escapeMenu", "wepc_core_fnc_escape_menu.html", null ],
     [ "wepc_core_fnc_handleItem", "wepc_core_fnc_handle_item.html", null ],
     [ "wepc_core_fnc_KeyHandler", "wepc_core_fnc__key_handler.html", null ],
-    [ "init.sqf", "_m_i_s_s_i_o_n_init_8sqf.html", null ],
-    [ "initPlayerLocal.sqf", "_m_i_s_s_i_o_n_init_player_local_8sqf.html", null ],
-    [ "initServer.sqf", "_m_i_s_s_i_o_n_init_server_8sqf.html", null ],
+    [ "init.sqf", "mission_init_8sqf.html", null ],
+    [ "initPlayerLocal.sqf", "mission_init_player_local_8sqf.html", null ],
+    [ "initServer.sqf", "mission_init_server_8sqf.html", null ],
     [ "wepc_player_fnc_evhKilled", "wepc_player_fnc_evh_killed.html", null ],
     [ "wepc_player_fnc_evhRespawn", "wepc_player_fnc_evh_respawn.html", null ],
     [ "wepc_player_fnc_checkBorder", "wepc_player_fnc_check_border.html", null ],
@@ -75,8 +75,8 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"_m_i_s_s_i_o_n_init_8sqf.html",
-"fn__load_gear_8sqf_a1f8e422574bacb0b6293c57dd2971815.html#a1f8e422574bacb0b6293c57dd2971815"
+"annotated.html",
+"fn__load_gear_8sqf_a468fdc27807a046596a31d6b92a960bb.html#a468fdc27807a046596a31d6b92a960bb"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
