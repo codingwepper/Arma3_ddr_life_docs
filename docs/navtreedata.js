@@ -25,12 +25,18 @@ var NAVTREE =
 [
   [ "DDR Life", "index.html", [
     [ "Arma 3 DDR Life", "index.html", null ],
+    [ "wepc_dialog_fnc_autohausInit", "wepc_dialog_fnc_autohaus_init.html", null ],
+    [ "wepc_dialog_fnc_progressbar", "wepc_dialog_fnc_progressbar.html", null ],
+    [ "wepc_core_fnc_accType", "wepc_core_fnc_acc_type.html", null ],
     [ "wepc_core_fnc_escapeMenu", "wepc_core_fnc_escape_menu.html", null ],
     [ "wepc_core_fnc_handleItem", "wepc_core_fnc_handle_item.html", null ],
     [ "wepc_core_fnc_KeyHandler", "wepc_core_fnc__key_handler.html", null ],
+    [ "wepc_core_fnc_playAnim", "wepc_core_fnc_play_anim.html", null ],
     [ "init.sqf", "mission_init_8sqf.html", null ],
     [ "initPlayerLocal.sqf", "mission_init_player_local_8sqf.html", null ],
     [ "initServer.sqf", "mission_init_server_8sqf.html", null ],
+    [ "wepc_player_fnc_evhGetInMan", "wepc_player_fnc_evh_get_in_man.html", null ],
+    [ "wepc_player_fnc_evhGetOutMan", "wepc_player_fnc_evh_get_out_man.html", null ],
     [ "wepc_player_fnc_evhKilled", "wepc_player_fnc_evh_killed.html", null ],
     [ "wepc_player_fnc_evhRespawn", "wepc_player_fnc_evh_respawn.html", null ],
     [ "wepc_player_fnc_checkBorder", "wepc_player_fnc_check_border.html", null ],
@@ -41,6 +47,7 @@ var NAVTREE =
     [ "wepc_player_fnc_saveData", "wepc_player_fnc_save_data.html", null ],
     [ "wepc_player_fnc_saveGear", "wepc_player_fnc_save_gear.html", null ],
     [ "wepc_player_fnc_stripDownPlayer", "wepc_player_fnc_strip_down_player.html", null ],
+    [ "wepc_vehicle_fnc_buyVehicle", "wepc_vehicle_fnc_buy_vehicle.html", null ],
     [ "wepc_vehicles_fnc_loadVehicles", "wepc_vehicles_fnc_load_vehicles.html", null ],
     [ "wepc_core_fnc_findSide", "wepc_core_fnc_find_side.html", null ],
     [ "db_fnc_asyncCall", "db_fnc_async_call.html", null ],
@@ -57,7 +64,10 @@ var NAVTREE =
     [ "weps_player_fnc_loadData", "weps_player_fnc_load_data.html", null ],
     [ "weps_player_fnc_saveData", "weps_player_fnc_save_data.html", null ],
     [ "weps_scripts_fnc_initBorder", "weps_scripts_fnc_init_border.html", null ],
+    [ "weps_vehicles_fnc_getVariables", "weps_vehicles_fnc_get_variables.html", null ],
     [ "weps_vehicles_fnc_loadPlayerVehicles", "weps_vehicles_fnc_load_player_vehicles.html", null ],
+    [ "weps_vehicle_fnc_SaveVehicle", "weps_vehicle_fnc__save_vehicle.html", null ],
+    [ "weps_vehicles_fnc_setVariables", "weps_vehicles_fnc_set_variables.html", null ],
     [ "Data Structures", "annotated.html", [
       [ "Data Structures", "annotated.html", "annotated_dup" ],
       [ "Data Structure Index", "classes.html", null ]
@@ -75,8 +85,9 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"annotated.html",
-"fn__load_gear_8sqf_a468fdc27807a046596a31d6b92a960bb.html#a468fdc27807a046596a31d6b92a960bb"
+"__cfg_dialogs_8hpp.html",
+"fn__escape_menu_8sqf_a086fde85e24dd9bf810c3c9e29996728.html#a086fde85e24dd9bf810c3c9e29996728",
+"fn__save_gear_8sqf_ac8353b267d1b6ce00483c611edc76c95.html#ac8353b267d1b6ce00483c611edc76c95"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

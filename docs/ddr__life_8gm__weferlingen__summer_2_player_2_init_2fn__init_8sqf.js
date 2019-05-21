@@ -9,6 +9,7 @@ var ddr__life_8gm__weferlingen__summer_2_player_2_init_2fn__init_8sqf =
     [ "_tagsize", "ddr__life_8gm__weferlingen__summer_2_player_2_init_2fn__init_8sqf_abb195782d3cbb9c19a0e09f9f2868442.html#abb195782d3cbb9c19a0e09f9f2868442", null ],
     [ "addEventHandler", "ddr__life_8gm__weferlingen__summer_2_player_2_init_2fn__init_8sqf_aad08c93b2a059a3723156c5c32bc2b30.html#aad08c93b2a059a3723156c5c32bc2b30", null ],
     [ "adminLevel", "ddr__life_8gm__weferlingen__summer_2_player_2_init_2fn__init_8sqf_a76e01f512da002f6f71ce17ca4568802.html#a76e01f512da002f6f71ce17ca4568802", null ],
+    [ "autohaus_kaufaction", "ddr__life_8gm__weferlingen__summer_2_player_2_init_2fn__init_8sqf_a6a0fc3cbe14afd77efa83553a08bfabf.html#a6a0fc3cbe14afd77efa83553a08bfabf", null ],
     [ "brd_bank", "ddr__life_8gm__weferlingen__summer_2_player_2_init_2fn__init_8sqf_a8f189e459b4f54c7b7569f9cb709d1f2.html#a8f189e459b4f54c7b7569f9cb709d1f2", null ],
     [ "brd_cash", "ddr__life_8gm__weferlingen__summer_2_player_2_init_2fn__init_8sqf_a8d5eac2659d26cdebee4b66df909b771.html#a8d5eac2659d26cdebee4b66df909b771", null ],
     [ "brd_copLevel", "ddr__life_8gm__weferlingen__summer_2_player_2_init_2fn__init_8sqf_a07c847af6a89be07d476da692322ccfe.html#a07c847af6a89be07d476da692322ccfe", null ],
