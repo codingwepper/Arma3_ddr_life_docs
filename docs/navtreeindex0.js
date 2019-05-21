@@ -153,9 +153,10 @@ var NAVTREEINDEX0 =
 "dir_fc8fd0792bd636d8fba6edc08d2ec7f6.html":[45,0,0,3,1],
 "files.html":[45,0],
 "fn___buy_vehicle_8sqf.html":[45,0,0,4,0],
-"fn___buy_vehicle_8sqf_a21e7a0e6fccc4377c3ba02376a5fe692.html#a21e7a0e6fccc4377c3ba02376a5fe692":[45,0,0,4,0,2],
-"fn___buy_vehicle_8sqf_a8a899fa214f14e7dbbd605aeef05eea9.html#a8a899fa214f14e7dbbd605aeef05eea9":[45,0,0,4,0,3],
-"fn___buy_vehicle_8sqf_aab7a0136ad16da0dcfd264e30a00f24d.html#aab7a0136ad16da0dcfd264e30a00f24d":[45,0,0,4,0,1],
+"fn___buy_vehicle_8sqf_a21e7a0e6fccc4377c3ba02376a5fe692.html#a21e7a0e6fccc4377c3ba02376a5fe692":[45,0,0,4,0,3],
+"fn___buy_vehicle_8sqf_a3edd0a892eb565d35ccee163eb586e4e.html#a3edd0a892eb565d35ccee163eb586e4e":[45,0,0,4,0,1],
+"fn___buy_vehicle_8sqf_a8a899fa214f14e7dbbd605aeef05eea9.html#a8a899fa214f14e7dbbd605aeef05eea9":[45,0,0,4,0,4],
+"fn___buy_vehicle_8sqf_aab7a0136ad16da0dcfd264e30a00f24d.html#aab7a0136ad16da0dcfd264e30a00f24d":[45,0,0,4,0,2],
 "fn___buy_vehicle_8sqf_af23a5d35fd0b78106bd4131bb7fd66a9.html#af23a5d35fd0b78106bd4131bb7fd66a9":[45,0,0,4,0,0],
 "fn___evh_get_in_man_8sqf.html":[45,0,0,3,0,0],
 "fn___evh_get_in_man_8sqf_ace9db0620716fd198a6de58de0354e42.html#ace9db0620716fd198a6de58de0354e42":[45,0,0,3,0,0,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX0 =
 "fn__check_border_8sqf_a6ee0a61c57d231aab2b2daa16d9c1dc2.html#a6ee0a61c57d231aab2b2daa16d9c1dc2":[45,0,0,3,1,0,5],
 "fn__check_border_8sqf_a8833852f21d7cd7fde53c8835a6b3760.html#a8833852f21d7cd7fde53c8835a6b3760":[45,0,0,3,1,0,6],
 "fn__check_border_8sqf_afbbdb32ea87f09fe1ac77c1b39cf25ce.html#afbbdb32ea87f09fe1ac77c1b39cf25ce":[45,0,0,3,1,0,2],
-"fn__escape_menu_8sqf.html":[45,0,0,2,1],
-"fn__escape_menu_8sqf_a03e4a719bfd9fa2d18983e9c256f1a58.html#a03e4a719bfd9fa2d18983e9c256f1a58":[45,0,0,2,1,12]
+"fn__escape_menu_8sqf.html":[45,0,0,2,1]
 };

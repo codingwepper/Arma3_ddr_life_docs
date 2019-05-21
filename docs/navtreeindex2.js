@@ -1,5 +1,6 @@
 var NAVTREEINDEX2 =
 {
+"fn__save_gear_8sqf_abab866df77b2159b8306b867c78bdaa6.html#abab866df77b2159b8306b867c78bdaa6":[45,0,0,3,2,1,10],
 "fn__save_gear_8sqf_ac8353b267d1b6ce00483c611edc76c95.html#ac8353b267d1b6ce00483c611edc76c95":[45,0,0,3,2,1,8],
 "fn__save_gear_8sqf_ad46862af40aca48aafae26ced9521812.html#ad46862af40aca48aafae26ced9521812":[45,0,0,3,2,1,4],
 "fn__save_gear_8sqf_ad4bbc24aa5435cbf9cafa75a26d53e15.html#ad4bbc24aa5435cbf9cafa75a26d53e15":[45,0,0,3,2,1,15],
@@ -54,8 +55,8 @@ var NAVTREEINDEX2 =
 "fn__strip_down_player_8sqf_ac6b96d17f0c60fd5ba0ae066419f4d00.html#ac6b96d17f0c60fd5ba0ae066419f4d00":[45,0,0,3,2,2,0],
 "fnc_recieve_data.html":[19],
 "functions_8hpp.html":[45,0,1,0,0],
-"globals.html":[45,1,0],
 "globals.html":[45,1,0,0],
+"globals.html":[45,1,0],
 "globals_a.html":[45,1,0,1],
 "globals_b.html":[45,1,0,2],
 "globals_c.html":[45,1,0,3],
