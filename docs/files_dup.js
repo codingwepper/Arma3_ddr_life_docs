@@ -1,6 +1,6 @@
 var files_dup =
 [
-    [ "ddr_life.gm_weferlingen_summer", "dir_d551c33a963bf2d9310199ddf0479f71.html", "dir_d551c33a963bf2d9310199ddf0479f71" ],
-    [ "ddr_life_server", "dir_5797f50a045e4316c0db9563f2b65ad5.html", "dir_5797f50a045e4316c0db9563f2b65ad5" ],
+    [ "crossingpoint.gm_weferlingen_summer", "dir_d63f954abfb0e6c1d3e30b8d4792e349.html", "dir_d63f954abfb0e6c1d3e30b8d4792e349" ],
+    [ "crossingpoint_server", "dir_35343eb6800fb4dc49e2623dc8e5303d.html", "dir_35343eb6800fb4dc49e2623dc8e5303d" ],
     [ "zaun_debug.hpp", "zaun__debug_8hpp.html", "zaun__debug_8hpp" ]
 ];
